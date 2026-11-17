@@ -173,3 +173,21 @@ nav ul li a:hover{
         margin-top:15px;
     }
 }
+p3 {
+    color: #b99b50;  /* Set text color to #b99b50 */
+    text-align: justify;
+}
+p2 {
+    color: rgba(255, 99, 71, 0.5);
+    
+    text-align:justify ;font-size: 25px
+}
+.testbtn {
+  background-color: #059862;;
+  color: white;
+  font-size: 15px;
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
